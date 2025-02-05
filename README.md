@@ -1,4 +1,4 @@
-# Project Name 
+# Project Name : Password Manager
 
 A brief description of what this project does and what is the future trends of this project 
 
